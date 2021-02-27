@@ -1,0 +1,9 @@
+{
+  "download_path": "./downloads",
+  "all_proxy": "http://127.0.0.1:1086",
+  "cookies": {
+    "pornhub.com": "",
+    "xvideos.com": ""
+  }
+}
+
